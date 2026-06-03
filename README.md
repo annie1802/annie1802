@@ -11,6 +11,7 @@
 
 📌 Projects
 - Smart Calculator 🔢 (Python)
+- Password Generator 🔐 (Python) 
 
  🎯 Goals
 - Contribute to GSSoC 2026
