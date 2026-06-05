@@ -3,6 +3,7 @@
 🎓 B.Tech First Year Student  
 💻 Learning Python & C++  
 🚀 Aspiring Open Source Contributor  
+🚀 Interested in Blockchain & Web3
 
  🔧 Skills
 - Python (Basics)
