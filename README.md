@@ -12,7 +12,12 @@
 
 📌 Projects
 - Smart Calculator 🔢 (Python)
-- Password Generator 🔐 (Python) 
+- Password Generator 🔐 (Python)
+- 🎓 Student Management System (CLI)
+Built a command-line based system to manage student records
+Features: Add, update, delete, and view student data
+Implemented using Python with file handling
+Focused on clean structure and modular code
 
  🎯 Goals
 - Contribute to GSSoC 2026
