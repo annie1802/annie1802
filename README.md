@@ -19,6 +19,11 @@
 - Improve coding skills
 - Build real-world projects
 
+  ## 🛠️ Tech Stack
+- Python
+- Git & GitHub
+- Blockchain basics
+
  ## 🚀 Open Source Contribution
 
 ### Quantum-Resistance Blockchain (QRB)
